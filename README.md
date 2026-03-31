@@ -5,7 +5,7 @@
 A Python-based network port scanner that identifies open ports, maps services, and flags high-risk exposures through a web dashboard.
 
 ## Screenshots
-*(add screenshots here)*
+![Dashboard](screenshots/dashboard.jpg)
 
 ## Features
 - TCP port scanning across common security-relevant ports
