@@ -1,2 +1,2 @@
-echo "flask
-pytest" > requirements.txt
+flask
+pytest
